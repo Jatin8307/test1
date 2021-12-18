@@ -216,7 +216,7 @@ html{
 .surprise-container {
   position: relative;
   top: -1.2rem;
-  background: url("surprisebg.jpg") no-repeat center center/cover;
+  background: url("images/surprisebg.jpg") no-repeat center center/cover;
 }
 #SURPRISES {
   display: flex;
@@ -293,7 +293,7 @@ html{
 }
 .review-container::before {
   content: "";
-  background: url("revbg.jpg") no-repeat center center/cover;
+  background: url("images/revbg.jpg") no-repeat center center/cover;
   position: absolute;
   top: 0px;
   left: 0px;
@@ -357,7 +357,7 @@ html{
   height: 100%;
   z-index: -1;
   opacity: 0.5;
-  background: url("user3.jpg") no-repeat center center/cover;
+  background: url("images/user3.jpg") no-repeat center center/cover;
 }
 
 #user {
@@ -499,7 +499,17 @@ footer div img {
   font-weight: bold;
 }
 
+
+
+
+
+
 /* knowmore pop up section  */
+
+
+
+
+
 
 .popup{
   border: 0.5px solid grey;
