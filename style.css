@@ -151,7 +151,7 @@ html{
 
 #intro::before {
   content: "";
-  background: url("bg3.jpg") no-repeat center center/cover;
+  background: url("images/bg3.jpg") no-repeat center center/cover;
   position: absolute;
   top: 0px;
   left: 0px;
