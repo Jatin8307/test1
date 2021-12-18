@@ -1,0 +1,70 @@
+  
+#navbar{
+    overflow: hidden;
+    flex-direction: column;
+  
+  }
+#navbar ul li a{
+    font-size: 10px;
+    padding: 0px 7px;
+
+}
+/* #navbar .item{} */
+  
+#intro{
+    height: 35rem;
+  }
+#intro::before{
+    height: 40rem;
+  }
+#intro .h-secondary{
+    font-size: 40px;
+  }
+  
+#launchingsoon{
+    flex-direction: column;
+  }
+
+#launchingsoon .box div{
+    height: 150px;
+    display: flex;
+    justify-content: center;
+  }
+  
+#SURPRISES{
+    flex-wrap: wrap;
+}
+#SURPRISES .Sbox {
+    border: 2px solid green;
+    border-radius: 1.5rem;
+    padding: 0.3rem;
+    margin: 0.6rem;
+  }
+  
+#mostbought{
+    flex-wrap: wrap;
+}
+
+  
+#reviews{
+    flex-wrap: wrap;
+  }
+
+  
+#user{
+    overflow: hidden;
+}
+
+  
+/* footer{} */
+  
+  
+#intro .h-primary{
+    font-size:  80px;
+}
+
+#btn{
+    font-size: 15px;
+    padding: 4px 10px;
+}
+  
