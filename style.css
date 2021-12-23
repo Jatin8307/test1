@@ -523,7 +523,7 @@ footer div img {
 
 
 .popup{
-  border: 0.5px solid grey;
+  /* border: 0.5px solid grey; */
   text-align: center;
   position: relative;
 }
